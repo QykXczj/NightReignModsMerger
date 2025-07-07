@@ -1,0 +1,14 @@
+{
+  "GamePath": "",
+  "ModsToMergeFolderPath": "ModsToMerge",
+  "MergedModsFolderPath": "MergedMods",
+  "BackupEnabled": true,
+  "BackupFolderPath": "Backups",
+  "LogLevel": "Information",
+  "ConflictResolution": "Manual",
+  "AutoDetectGamePath": true,
+  "SupportedFileExtensions": [".bin", ".param", ".dcx"],
+  "MaxBackups": 10,
+  "Language": "zh-CN",
+  "CheckForUpdates": true
+}
